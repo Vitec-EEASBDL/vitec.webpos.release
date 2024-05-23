@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "Vitec.WebPos.WebApp",
   "resources": {
-    "hash": "sha256-NdhlxVtdDCQhTkhbQvrzKMYap65oTLKEDODPjHawkVA=",
+    "hash": "sha256-xD+kFpvbTyn0dKqUDtWnolXaXa/cEOl6A7pYAA8+yHk=",
     "jsModuleNative": {
       "dotnet.native.8.0.5.k8qrcc28q0.js": "sha256-boyHe+0RMZDkzBKGhsrnXPhPg3oZ6UqJnTUzngJPjNY="
     },
@@ -23,7 +23,7 @@
       "Microsoft.AspNetCore.Components.Web.wasm": "sha256-SQTSFTbu7OU+q6DGLSY8jlXfJ/66RMc4aZhwrQ8xOgE=",
       "Microsoft.AspNetCore.Components.WebAssembly.wasm": "sha256-WlewhEVj5v6g5Ra4yDNdSt4yMlq2ht+C7SRIqjYQ5ZA=",
       "Microsoft.Extensions.Configuration.Abstractions.wasm": "sha256-vAkP5yC5dr3kd6Jlq57SnhzOqRen20nVbp2JUFMbYPM=",
-      "Microsoft.Extensions.Configuration.Binder.wasm": "sha256-CqjQYZNEh0ghu/fIX+iQAt31GjkRQ5QDQFNNaFMPjys=",
+      "Microsoft.Extensions.Configuration.Binder.wasm": "sha256-eN0Xu/52ga7r9fwNTx2tZz6v0wF/B9YnJLsjym12rCY=",
       "Microsoft.Extensions.Configuration.Json.wasm": "sha256-Sxmy2ZS134URxbHEvdbS6NcQ3zXS7UWx/5ZPpwiW7FA=",
       "Microsoft.Extensions.Configuration.wasm": "sha256-rDjz0SewE36xSDaStXOW2jvHO5Pi4YX4HGIO3sN0HCU=",
       "Microsoft.Extensions.DependencyInjection.Abstractions.wasm": "sha256-VG0JlDLVmaNVcNfjk457YOXgyWGRXV+fs9UhWhANLuA=",
@@ -63,13 +63,13 @@
       "System.Net.Http.wasm": "sha256-EbHieovsVKv1hN0tsQLNiYq3D4BLfUG6NwNiE+Y4JZY=",
       "System.Net.Primitives.wasm": "sha256-pe2ts7Re+Rwt6KzGosBQFy7487Iz3gRoalehJ/NzCaE=",
       "System.ObjectModel.wasm": "sha256-JSai0+YwXGKaBJ1eOrCyI5Q0g/tSj0GIQIJM6N1Y0Ek=",
-      "System.Private.CoreLib.wasm": "sha256-+ZJ9l9+C8+j5z3AATJymMxuF+jumPwa36SqVRzQqEjc=",
+      "System.Private.CoreLib.wasm": "sha256-wM52vRtUjvjXlZmtb93S0qPpzUM6tnaDiELlF3ZZWrc=",
       "System.Private.Uri.wasm": "sha256-yYL60xYVc4lP5pNcLWMHDVzg0PA0vh+VyiOkD1dZmxo=",
       "System.Reactive.wasm": "sha256-7hVnD5uZm5pqLJPvpZPTtgvkSfgYkKz2FZ//fppQ3zs=",
       "System.Runtime.InteropServices.JavaScript.wasm": "sha256-XVTl2W52DQ4SKaesklKfFn4eJVejhOnaww7MsTfrZDc=",
       "System.Runtime.InteropServices.RuntimeInformation.wasm": "sha256-ukL5ISSpLggcl9l4+vf2dtJTJRMh6F3pu36V2N/9ZCU=",
       "System.Runtime.InteropServices.wasm": "sha256-Tb2D6/zr51Q1HnfdYhyM/fUlqPRvP4OnCYSE1OL+3xQ=",
-      "System.Runtime.Numerics.wasm": "sha256-z7bPD0tI/IJOQQlo8bTrMHNUi/3xAXsd8fqZV9A79AY=",
+      "System.Runtime.Numerics.wasm": "sha256-AUH0KXzYbDTEqLkJ1VKkAS1Y2Qw/FibV6xBK30GQ9AM=",
       "System.Runtime.wasm": "sha256-I4+UoK/UekrojSM+DUIBGFZZ2c64qOf1ou5nWw9HqUM=",
       "System.Text.Encoding.Extensions.wasm": "sha256-IAX/oFv0UbfgroCNN0+236toRGlyTtS8w8VO50H7idw=",
       "System.Text.Encodings.Web.wasm": "sha256-FcdXnswiO5ciSFlTqeZtH/LHOzBYGhHUHpA6GJMdeXs=",
@@ -81,12 +81,12 @@
       "System.wasm": "sha256-OubjZw/80TLo8bE7YJHM01VGNwe1/x5XAEVXeRe0Md4=",
       "TG.Blazor.IndexedDB.wasm": "sha256-4u3DzThxux9K9sTeHhZyBhid/AlxJKAaouBiayJ/n5Y=",
       "Utility.Disposable.wasm": "sha256-WdDC4V0fH//onxLTD083F8MrKIv+6ZD0XudbluC+Q/o=",
-      "Vitec.WebPos.Core.wasm": "sha256-ZPpaOYOxLA9K1hEpYb9AJ1Dh2U5usxsPaRQ5/ynKPPY=",
-      "Vitec.WebPos.DummyData.wasm": "sha256-LPVe6pvOFLOZsDbjqnWw2Pr8DRCeBo6sIBfazIePpFc=",
-      "Vitec.WebPos.Sales.wasm": "sha256-4t9aysl+eqMRqtdm9i3XjZaEtwCjdFvQ0oZr0nNc32k=",
-      "Vitec.WebPos.Shared.Ui.wasm": "sha256-zqLUwsDm4ksYARlTj4gi0uo8aq26MnvHs3RxsT8xEpg=",
-      "Vitec.WebPos.StateManagement.wasm": "sha256-JSnS5IKm/F1EpbtBXqyCaEUhpckZ3J9S3VYUG01LCgY=",
-      "Vitec.WebPos.WebApp.wasm": "sha256-f8nnyXE73auwhhR5DdWqPbJMQwowK2lPe1KfGwJMXYs="
+      "Vitec.WebPos.Core.wasm": "sha256-5bBbbIvawLTxU55CgTydI+fh09lKPq0qMvRHG85ph+E=",
+      "Vitec.WebPos.DummyData.wasm": "sha256-V9jEEMm0JFfFzke0uf2KL1NstT2IkcwQ9OC3ZlT2EA8=",
+      "Vitec.WebPos.Sales.wasm": "sha256-tvztrF9k4SrV1N7wdvNM7+dQNSRXxFodtQNNdGQkUuI=",
+      "Vitec.WebPos.Shared.Ui.wasm": "sha256-iHK0HCMXBjPIDNJ0gw5silOVHxpCnY4nXmmw7J7d1j8=",
+      "Vitec.WebPos.StateManagement.wasm": "sha256-WtZnCah1vPygAJEMmsLzqyUhpZaZhUAnw/MGt9tSFMs=",
+      "Vitec.WebPos.WebApp.wasm": "sha256-xnjWKUPhd80Dl2fnBU7IvdMXMp6+1Yvy9y1W2vpEj0A="
     }
   },
   "cacheBootResources": true,

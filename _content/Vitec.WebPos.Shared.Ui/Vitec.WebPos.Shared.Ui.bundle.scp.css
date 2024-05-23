@@ -1,0 +1,55 @@
+/* _content/Vitec.WebPos.Shared.Ui/Pages/Sale/Components/SaleSelector.razor.rz.scp.css */
+.selector-container[b-87q4hi3l0d] {
+    margin-bottom: 0px;
+}
+/* _content/Vitec.WebPos.Shared.Ui/Pages/Sale/Components/SearchBar.razor.rz.scp.css */
+.search-container[b-083iltg9wx] {
+    margin-bottom: 10px;
+}
+/* _content/Vitec.WebPos.Shared.Ui/Pages/Sale/Components/Simulation.razor.rz.scp.css */
+.simulation-container[b-sx2c1grmz5] {
+    margin-bottom: 10px;
+}
+/* _content/Vitec.WebPos.Shared.Ui/Shared/Components/NavMenu.razor.rz.scp.css */
+.container[b-vmzhpafexi] {
+    background-color: #FFFFFF;
+    padding: 10px;
+    width: 70px;
+    height: 100%;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+/* _content/Vitec.WebPos.Shared.Ui/Shared/MainLayout.razor.rz.scp.css */
+.page[b-by44z6qspa] {
+    position: relative;
+
+    height: 100%;
+    padding: 10px;
+
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: normal;
+    align-items: stretch;
+    align-content: stretch;
+}
+
+.menu-container[b-by44z6qspa] {
+    flex-grow: 0;
+    flex-shrink: 1;
+    flex-basis: auto;
+    align-self: auto;
+    order: 0;
+}
+
+.content-container[b-by44z6qspa] {
+    display: block;
+    flex-grow: 1;
+    flex-shrink: 1;
+    flex-basis: auto;
+    align-self: auto;
+    order: 0;
+    padding-left: 10px;
+}

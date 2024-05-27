@@ -31,6 +31,32 @@
     <script src="_framework/blazor.webassembly.js"></script>
     <script src="_content/MudBlazor/MudBlazor.min.js"></script>
     <script src="_content/TG.Blazor.IndexedDB/indexedDb.Blazor.js"></script>
+    <script>
+        const channel = new BroadcastChannel('blazor_app_channel');
+        let isAppOpen = false;
+
+        channel.onmessage = function (event) {
+            if (event.data === 'check') {
+                channel.postMessage('exists');
+            } else if (event.data === 'exists') {
+                isAppOpen = true;
+                alert('The application is already open in another tab.');
+                window.location.href = 'about:blank';
+            }
+        };
+
+        channel.postMessage('check');
+
+        window.addEventListener('beforeunload', function () {
+            channel.postMessage('closing');
+        });
+
+        setTimeout(function () {
+            if (!isAppOpen) {
+                channel.postMessage('exists');
+            }
+        }, 500); // Wait for a moment to allow other tabs to respond
+    </script>
 </body>
 
 </html>

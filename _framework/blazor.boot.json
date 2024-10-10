@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "Vitec.WebPos.WebApp",
   "resources": {
-    "hash": "sha256-tcju1Lwb1cCZNGpa0dKFfBppF40zDUyPtI8WhH4MYDc=",
+    "hash": "sha256-Kt9cO5NS5FkIbPCjz+EwJ5c5BNnLDcWbz7BYctp99jI=",
     "jsModuleNative": {
       "dotnet.native.8.0.10.4xsnm8lwn6.js": "sha256-QVxMlY7ohmjgde/bZMA0dlWDAeuUP+tEfkiSdg4DFcE="
     },
@@ -100,14 +100,14 @@
       "System.Xml.XDocument.wasm": "sha256-Cy/b283xboGd/FENjDI+rENBqJOBdwLXhAhwbzY3Po4=",
       "TG.Blazor.IndexedDB.wasm": "sha256-4u3DzThxux9K9sTeHhZyBhid/AlxJKAaouBiayJ/n5Y=",
       "Utility.Disposable.wasm": "sha256-WdDC4V0fH//onxLTD083F8MrKIv+6ZD0XudbluC+Q/o=",
-      "Vitec.WebPos.Core.wasm": "sha256-cd8AjoXHJJ/ttfXWADgh0QdPZa/L4zQkheN1OvQJa00=",
-      "Vitec.WebPos.DummyData.wasm": "sha256-fmEmdNrV78zr4t0gv2Zv9LKCTuIi4/h1dkXUhZHgM9c=",
+      "Vitec.WebPos.Core.wasm": "sha256-MWaSvhAT9uVUhI56seVxNJW+Aj03Xh/EyLKNz4ZokB4=",
+      "Vitec.WebPos.DummyData.wasm": "sha256-wOUhCXqTR1xyJZ1Y3PrUH80raxyo0iuzkWdORHqrNs0=",
       "Vitec.WebPos.Integrations.Softpay.Contract.wasm": "sha256-V9u4CnahGdMS32uIDK2bzflcwaTvF0hT8hMujTwy4Lo=",
-      "Vitec.WebPos.Sales.Contract.wasm": "sha256-yEu4b/xyQw8EgphAWph/MhQml1mEFSx4MMFOlvJOSrw=",
-      "Vitec.WebPos.Sales.wasm": "sha256-NwNdzdHjmsgyhNxHLzae61niWncPYfGzwjHwCkGRwvo=",
-      "Vitec.WebPos.Shared.Ui.wasm": "sha256-P4Rvfd9RYCUNny6cf1nk/xAbWgXFgHujkt2CF3hA99o=",
-      "Vitec.WebPos.StateManagement.wasm": "sha256-UJYtj3gMYA5jGS9bOnfSBo6BWI3wBSqUYmbiGb9IguI=",
-      "Vitec.WebPos.WebApp.wasm": "sha256-H5ssaFRNeYbI8qURdmkBUYIDIEafrLrNGICQnPMGmqM="
+      "Vitec.WebPos.Sales.Contract.wasm": "sha256-QMhJm4e2fUq7kxEWKVDtFar5kqfSF54+eBk8h/UEMo0=",
+      "Vitec.WebPos.Sales.wasm": "sha256-TSjBPwqt0IDhwVRKIGf3ott2Eg2beS65QFuJqeMzG/4=",
+      "Vitec.WebPos.Shared.Ui.wasm": "sha256-NwlEx7s3gF2jMCjt0y9cOvwQGg9cCh5+zXSHWCeHO8E=",
+      "Vitec.WebPos.StateManagement.wasm": "sha256-+GZVHVbC6bk6ShPGXHo1Lk5gl4RXzGxKG+B3lU83K+o=",
+      "Vitec.WebPos.WebApp.wasm": "sha256-5rpNqSwTVSviP/B7r2khVt+I1bleVeJEVi/PJjS3RKU="
     }
   },
   "cacheBootResources": true,

@@ -1,18 +1,18 @@
 /* _content/Vitec.WebPos.Shared.Ui/Pages/Sale/Components/SaleSelector.razor.rz.scp.css */
-.selector-container[b-87q4hi3l0d] {
+.selector-container[b-vpmmb768o8] {
     margin-bottom: 0px;
 }
 /* _content/Vitec.WebPos.Shared.Ui/Pages/Sale/Components/SearchBar.razor.rz.scp.css */
-.search-container[b-083iltg9wx] {
+.search-container[b-bjxfteeufd] {
     margin-top: -1rem;
 }
 /* _content/Vitec.WebPos.Shared.Ui/Pages/Sale/Components/Simulation.razor.rz.scp.css */
-.simulation-container[b-sx2c1grmz5] {
+.simulation-container[b-s1m98mq4b2] {
     margin-bottom: 10px;
 }
 /* _content/Vitec.WebPos.Shared.Ui/Shared/Components/NavMenu.razor.rz.scp.css */
 /* _content/Vitec.WebPos.Shared.Ui/Shared/MainLayout.razor.rz.scp.css */
-.menu-container[b-by44z6qspa] {
+.menu-container[b-r9bej7axub] {
     flex-grow: 0;
     flex-shrink: 1;
     flex-basis: auto;
@@ -20,7 +20,7 @@
     order: 0;
 }
 
-.content-container[b-by44z6qspa] {
+.content-container[b-r9bej7axub] {
     display: block;
     flex-grow: 1;
     flex-shrink: 1;

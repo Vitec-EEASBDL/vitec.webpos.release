@@ -1,3 +1,6 @@
+/* _content/Vitec.WebPos.Shared.Ui/Components/AdminDialog/AdminDialog.razor.rz.scp.css */
+/* _content/Vitec.WebPos.Shared.Ui/Components/AdminDialog/PosContent.razor.rz.scp.css */
+/* _content/Vitec.WebPos.Shared.Ui/Components/AdminDialog/ReceiptContent.razor.rz.scp.css */
 /* _content/Vitec.WebPos.Shared.Ui/Pages/Sale/Components/SaleSelector.razor.rz.scp.css */
 .selector-container[b-87q4hi3l0d] {
     margin-bottom: 0px;
@@ -5,6 +8,10 @@
 /* _content/Vitec.WebPos.Shared.Ui/Pages/Sale/Components/SearchBar.razor.rz.scp.css */
 .search-container[b-083iltg9wx] {
     margin-top: -1rem;
+}
+
+.search-container .mud-input-control[b-083iltg9wx] {
+    margin-top: 0 !important;
 }
 /* _content/Vitec.WebPos.Shared.Ui/Pages/Sale/Components/Simulation.razor.rz.scp.css */
 .simulation-container[b-sx2c1grmz5] {

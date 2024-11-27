@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "Vitec.WebPos.WebApp",
   "resources": {
-    "hash": "sha256-VRZMNtrlmP3aSqfEazbVLKry7BkxFit5mDWq/qvr9+U=",
+    "hash": "sha256-OWMTTevte/5z3TUc9LxuUOD/Jd/Q1VICzMg8K4RUjAE=",
     "fingerprinting": {
       "Actress.w6y98p9ua6.wasm": "Actress.wasm",
       "App.Metrics.Abstractions.uqewsc9cjv.wasm": "App.Metrics.Abstractions.wasm",
@@ -131,16 +131,16 @@
       "TG.Blazor.IndexedDB.y0k6n7pzc8.wasm": "TG.Blazor.IndexedDB.wasm",
       "UrlBase64.5y40vvdtt4.wasm": "UrlBase64.wasm",
       "Utility.Disposable.b3beom5qw9.wasm": "Utility.Disposable.wasm",
-      "Vitec.WebPos.Api.Client.8gh4zc7ecq.wasm": "Vitec.WebPos.Api.Client.wasm",
-      "Vitec.WebPos.Api.Contract.4wdlic4uw6.wasm": "Vitec.WebPos.Api.Contract.wasm",
-      "Vitec.WebPos.Core.vm88i03jo9.wasm": "Vitec.WebPos.Core.wasm",
-      "Vitec.WebPos.DummyData.45s9du4b1q.wasm": "Vitec.WebPos.DummyData.wasm",
+      "Vitec.WebPos.Api.Client.ww9qzttibd.wasm": "Vitec.WebPos.Api.Client.wasm",
+      "Vitec.WebPos.Api.Contract.iw24f2fuzz.wasm": "Vitec.WebPos.Api.Contract.wasm",
+      "Vitec.WebPos.Core.t6le0iujpe.wasm": "Vitec.WebPos.Core.wasm",
+      "Vitec.WebPos.DummyData.y2vtlza8nw.wasm": "Vitec.WebPos.DummyData.wasm",
       "Vitec.WebPos.Integrations.Softpay.Contract.vu8qg3j0qh.wasm": "Vitec.WebPos.Integrations.Softpay.Contract.wasm",
-      "Vitec.WebPos.Sales.t0j9ato6of.wasm": "Vitec.WebPos.Sales.wasm",
-      "Vitec.WebPos.Shared.Ui.1vff09erhu.wasm": "Vitec.WebPos.Shared.Ui.wasm",
-      "Vitec.WebPos.StateManagement.3zhdlemozj.wasm": "Vitec.WebPos.StateManagement.wasm",
-      "Vitec.WebPos.WebApp.xonb0dlasa.wasm": "Vitec.WebPos.WebApp.wasm",
-      "Vitec.WebPos.Shared.Ui.resources.b1l3vg253x.wasm": "Vitec.WebPos.Shared.Ui.resources.wasm",
+      "Vitec.WebPos.Sales.rfe57tnro0.wasm": "Vitec.WebPos.Sales.wasm",
+      "Vitec.WebPos.Shared.Ui.836qlktdnr.wasm": "Vitec.WebPos.Shared.Ui.wasm",
+      "Vitec.WebPos.StateManagement.8c7xi1q858.wasm": "Vitec.WebPos.StateManagement.wasm",
+      "Vitec.WebPos.WebApp.q5yh1xksox.wasm": "Vitec.WebPos.WebApp.wasm",
+      "Vitec.WebPos.Shared.Ui.resources.a237g9wx9t.wasm": "Vitec.WebPos.Shared.Ui.resources.wasm",
       "dotnet.js": "dotnet.js",
       "dotnet.native.hmanx9razn.js": "dotnet.native.js",
       "dotnet.native.p4lwlf2bu1.wasm": "dotnet.native.wasm",
@@ -290,19 +290,19 @@
       "TG.Blazor.IndexedDB.y0k6n7pzc8.wasm": "sha256-4u3DzThxux9K9sTeHhZyBhid/AlxJKAaouBiayJ/n5Y=",
       "UrlBase64.5y40vvdtt4.wasm": "sha256-83v912kxa1H+ThwddhIHjYLHsrdr1F/5pgMHEqf848Y=",
       "Utility.Disposable.b3beom5qw9.wasm": "sha256-WdDC4V0fH//onxLTD083F8MrKIv+6ZD0XudbluC+Q/o=",
-      "Vitec.WebPos.Api.Client.8gh4zc7ecq.wasm": "sha256-WNTYrcmwRi5rELjSPrSMKnweRWPWDTyvAzBITXxaBZ8=",
-      "Vitec.WebPos.Api.Contract.4wdlic4uw6.wasm": "sha256-bARULoTiAgyXEFD3Jsug93oLkFRbHJqNfhQ3wtP06Ec=",
-      "Vitec.WebPos.Core.vm88i03jo9.wasm": "sha256-tx/b1HrQi7tNaBdNVRcUyQDv2C9edLccEuvSI+NzLYw=",
-      "Vitec.WebPos.DummyData.45s9du4b1q.wasm": "sha256-SKRaAx2cojr6R3uOrUB6z4MJoz/+75NDPwdBwu86juQ=",
+      "Vitec.WebPos.Api.Client.ww9qzttibd.wasm": "sha256-sJvMGs4arlwC6mGLvtVbaBGNrCq4HDfAoIrLKIM8ni0=",
+      "Vitec.WebPos.Api.Contract.iw24f2fuzz.wasm": "sha256-sg71pSO/xIh/ZAA5krSntAPzvUqjlQGnjDUi6BkqWV0=",
+      "Vitec.WebPos.Core.t6le0iujpe.wasm": "sha256-xYod/3sTvZVG//HPFlUR0evF0hGfALXrD9I4z71M++c=",
+      "Vitec.WebPos.DummyData.y2vtlza8nw.wasm": "sha256-moNTNTDrAlhBOMmk1+1xBnolFYCBQfAyeN/O8XQk8UI=",
       "Vitec.WebPos.Integrations.Softpay.Contract.vu8qg3j0qh.wasm": "sha256-V9u4CnahGdMS32uIDK2bzflcwaTvF0hT8hMujTwy4Lo=",
-      "Vitec.WebPos.Sales.t0j9ato6of.wasm": "sha256-c1nx0gjW3CXLLgL4y+fCzf5Pwvyz3dg0qAKHlBdFtTM=",
-      "Vitec.WebPos.Shared.Ui.1vff09erhu.wasm": "sha256-853IJNtBlIW8EJ8BuOD4oBMr1i6FLUkYnuX43OxVG6g=",
-      "Vitec.WebPos.StateManagement.3zhdlemozj.wasm": "sha256-wdZWnm+w9t2Z/7V97WiCtZ5FYLJgt1QsoIlkDiHr/ws=",
-      "Vitec.WebPos.WebApp.xonb0dlasa.wasm": "sha256-sXDRuAcMFE0na0tNSIwR4DduUQ+/8daca2js9QeEl6Q="
+      "Vitec.WebPos.Sales.rfe57tnro0.wasm": "sha256-VwMPtI3afF8xEvKvIDqP6tjYExUeY3jG8nzjFDNiJbQ=",
+      "Vitec.WebPos.Shared.Ui.836qlktdnr.wasm": "sha256-VLaiBc2eEqQaMYLUxJiRLK9gHFHsPf9a+M/jc2vY9HE=",
+      "Vitec.WebPos.StateManagement.8c7xi1q858.wasm": "sha256-mMahgV+IWWeCi8rXw/J0Xuy+BK/WzN04LyL9QslTMtQ=",
+      "Vitec.WebPos.WebApp.q5yh1xksox.wasm": "sha256-LsxNBdGUnT4zYGrxNSFAOTZCKvkFir98RNS0y9KJl/c="
     },
     "satelliteResources": {
       "en-US": {
-        "Vitec.WebPos.Shared.Ui.resources.b1l3vg253x.wasm": "sha256-wVNMeihB3vSX020GpAKrwS7NIgR1L1wmGZjEg28AiEU="
+        "Vitec.WebPos.Shared.Ui.resources.a237g9wx9t.wasm": "sha256-Qh+UgSl1cPMphJRLnJ/tJYmz8smmFjxB26qC24vki3w="
       }
     }
   },

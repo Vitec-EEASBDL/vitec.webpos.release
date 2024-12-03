@@ -37,3 +37,17 @@
 window.mediaQueryHelper.test = function () {
     return true;
 }
+
+
+window.addKeyListener = (dotnetHelper) => {
+    window.keyHandler = (e) => {
+        dotnetHelper.invokeMethodAsync('OnKeyPress', e.key);
+    };
+    document.addEventListener('keypress', window.keyHandler);
+};
+
+window.removeKeyListener = () => {
+    if (window.keyHandler) {
+        document.removeEventListener('keypress', window.keyHandler);
+    }
+};

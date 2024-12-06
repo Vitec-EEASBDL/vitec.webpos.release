@@ -51,3 +51,24 @@ window.removeKeyListener = () => {
         document.removeEventListener('keypress', window.keyHandler);
     }
 };
+
+window.addActivityListeners = (dotnetHelper) => {
+    const activities = ['mousedown', 'mousemove', 'keydown',
+        'scroll', 'touchstart', 'click'];
+
+    const debounce = (func, wait) => {
+        let timeout;
+        return (...args) => {
+            clearTimeout(timeout);
+            timeout = setTimeout(() => func.apply(this, args), wait);
+        };
+    };
+
+    const activityHandler = debounce(() => {
+        dotnetHelper.invokeMethodAsync('OnUserActivity');
+    }, 1000);
+
+    activities.forEach(activity => {
+        document.addEventListener(activity, activityHandler);
+    });
+};
